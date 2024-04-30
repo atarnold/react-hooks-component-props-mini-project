@@ -10,4 +10,4 @@ function ArticleList({ posts }) {
     </main>
   );
 }
-export default ArticleList
+export default ArticleList;
