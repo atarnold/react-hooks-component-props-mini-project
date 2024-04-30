@@ -11,4 +11,3 @@ function ArticleList({ posts }) {
   );
 }
 export default ArticleList
-
